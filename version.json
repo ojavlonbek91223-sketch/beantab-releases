@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "windows": "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.2.0/BeanTab-Setup.zip",
-  "android": "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.2.0/BeanTab.apk",
-  "notes": "Chek logotipi (kafe rasmi), chek va vaqt tuzatishlari, avtomatik yangilanish"
+  "version": "1.3.0",
+  "windows": "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.3.0/BeanTab-Setup.zip",
+  "android": "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.3.0/BeanTab.apk",
+  "notes": "Smena (ish kuni) daromadi, chek logotipi, vaqt tuzatishi, avtomatik yangilanish"
 }
