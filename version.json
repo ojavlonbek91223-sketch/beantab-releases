@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "windows": "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.4.0/BeanTab-Setup.zip",
-  "android": "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.4.0/BeanTab.apk",
-  "notes": "WiFi/tarmoq printer (oshxona apparati IP orqali ulanadi), smena daromadi, chek logotipi"
+  "version": "1.5.0",
+  "windows": "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.5.0/BeanTab-Setup.zip",
+  "android": "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.5.0/BeanTab.apk",
+  "notes": "Menyu ommaviy import (Excel/CSV fayl yoki matn), WiFi printer, smena daromadi, chek logotipi"
 }
