@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.0",
-    "windows":  "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.6.0/BeanTab-Setup.zip",
-    "android":  "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.6.0/BeanTab.apk",
-    "notes":  "Yangi korinish: tiniq orqa fon va shisha panellar. PIN endi ixtiyoriy (Sozlamalar \u003e PIN). Parolni unutganda tiklash mumkin."
+    "version":  "1.6.1",
+    "windows":  "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.6.1/BeanTab-Setup.zip",
+    "android":  "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.6.1/BeanTab.apk",
+    "notes":  "Muhim tuzatish: ayrim kompyuterlarda dastur ochilmasligi bartaraf etildi. Tiniq orqa fon + shisha panellar, PIN ixtiyoriy (Sozlamalar \u003e PIN), parolni tiklash."
 }
