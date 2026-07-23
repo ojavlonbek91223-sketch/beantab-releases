@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.2",
-    "windows":  "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.6.2/BeanTab-Setup.zip",
-    "android":  "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.6.2/BeanTab.apk",
-    "notes":  "Tezlik: bosilganda darhol javob beradi, menyu tez ochiladi, internet trafigi kamaydi."
+    "version":  "1.6.3",
+    "windows":  "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.6.3/BeanTab-Update.zip",
+    "android":  "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.6.3/BeanTab.apk",
+    "notes":  "Windows yangilanishi tuzatildi (paket 2.7 barobar kichik, uzilsa davom ettiradi). Menyu korinmay qolishi tuzatildi."
 }
