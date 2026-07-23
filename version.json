@@ -1,6 +1,6 @@
 {
-    "version":  "1.6.3",
-    "windows":  "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.6.3/BeanTab-Update.zip",
-    "android":  "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.6.3/BeanTab.apk",
-    "notes":  "Windows yangilanishi tuzatildi (paket 2.7 barobar kichik, uzilsa davom ettiradi). Menyu korinmay qolishi tuzatildi."
+    "version":  "1.6.4",
+    "windows":  "https://cafe-pos-sh91.onrender.com/api/update/windows",
+    "android":  "https://github.com/ojavlonbek91223-sketch/beantab-releases/releases/download/v1.6.4/BeanTab.apk",
+    "notes":  "Windows yangilanishi tuzatildi (paket 3 barobar kichik, uzilsa davom ettiradi). Ilova tezroq ishlaydi."
 }
